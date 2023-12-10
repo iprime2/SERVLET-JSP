@@ -9,7 +9,7 @@
 <body>
 	<%
 	
-		Cookie cookie1 = new Cookie("username","kalwarsushil2");
+		Cookie cookie1 = new Cookie("username","athravajoshi");
 		response.addCookie(cookie1);
         
         Cookie[] cookies = request.getCookies();

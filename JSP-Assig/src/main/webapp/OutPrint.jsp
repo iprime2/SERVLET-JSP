@@ -9,7 +9,7 @@
 <body>
 	<%
         // Printing string values using the out object
-        String name = "Sushil Gupta";
+        String name = "Athrava joshi";
         out.println("Hello, " + name + "!<br>");
 
         // Printing numeric values using the out object
